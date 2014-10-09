@@ -1,0 +1,6 @@
+Edad: 29 Nombre: Jesus Sexo: V
+
+Edad: 59 Nombre: Maria Sexo: H
+
+Edad: 6 Nombre: Sonia Sexo: H
+
