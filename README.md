@@ -8,3 +8,4 @@ Archivos necesarios para las aplicaciones en la raíz del repositorio.
 - Ex.4: LeeNumCaracteresMain.java (Main). Necesario archivo registro.txt.
 - Ex.5: Necesarios imagen.jpg y registro2.txt.
 - Ex.6: Necesarios registro.txt y registro2.txt.
+- Ex.7: Ejecutar DatoMain.java
